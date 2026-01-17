@@ -4,23 +4,6 @@
 
 Desarrollador Fullstack, comprometido con la investigación, soy estudiante pero también autodidacta, mi objetivo es ser un desarrollador conocido.
 
-
-# Stack
-
-Manejo tecnologias como: 
-- Javascript, 
-- Tailwind
-- Vue js, 
-- Astro js, 
-- React native, 
-- Php, 
-- Nest js, 
-- Mysql, 
-- Sql Server, 
-- Postgresql, 
-- Docker, 
-- Git
-
 ## Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cubillagigante.github.io/portfolio/)
